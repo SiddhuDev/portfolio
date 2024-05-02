@@ -1,0 +1,16 @@
+.btn {
+    background-color: #4caf50;
+    border: none;
+    padding: 15px 32px;
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
